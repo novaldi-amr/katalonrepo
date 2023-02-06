@@ -15,7 +15,7 @@
       <guid>e99e0fe6-529f-4804-9fc9-75760aa239d8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Positive/Login MileApp</testCaseId>
+      <testCaseId>Test Cases/Negative/Login MileApp</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
